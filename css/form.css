@@ -1,0 +1,10 @@
+.bs-formulario {
+    position: relative;
+/*    text-align: center;*/
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #fafafa;
+    border: #ddd solid 1px;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: none;
+}
